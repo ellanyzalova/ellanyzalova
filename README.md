@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ellanyzalova
+- 👋 Hi, I’m @ellanyzalova and I am currently a Freshman at University of Wisconsin-Madison pursuing a Bachelor's in Computer Science
+- 
 - 📫 How to reach me ... ellanyzalova@gmail.com
 
 <!---
