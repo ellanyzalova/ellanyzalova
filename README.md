@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ellanyzalova and I am a undergraduate junior at University of Wisconsin-Madison pursuing a Bachelor's in Computer Science
+- 👋 Hi, I’m @ellanyzalova!
 - 📫 How to reach me ... ellanyzalova@gmail.com
 
 <!---
